@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "play_tokenmc_fun.aternos.me",
+    "port": 25839,
     "version": "1.21.1"
   },
   "position": {
